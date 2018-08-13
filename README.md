@@ -1,15 +1,10 @@
-# Udacity Self-Driving Car Engineer Nanodegree
+# An Autonomous Vehicle System For Udacity's Carla
 
 * * *
 
-
-## Final Project - System Integration
-
-## Team Carmageddon
-
 ![image alt text](imgs/readme_image_0.jpg)
 
-The System Integration project is the final project of Udacity's Self-Driving Car Engineer Nanodegree. As a team, we built ROS nodes to implement the core functionality of the autonomous vehicle system, including traffic light detection and classification, vehicle control control, and waypoint following. This software system will be deployed on Carla (Udacity’s Self Driving Lincoln MKZ) to autonomously drive it around a test track.
+In this project, we built ROS nodes to implement the core functionality of the autonomous vehicle system, including traffic light detection and classification, vehicle control control, and waypoint following. This software system will be deployed on Carla (Udacity’s Self Driving Lincoln MKZ) to autonomously drive it around a test track.
 
 ## The Team
 
